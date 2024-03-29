@@ -5,13 +5,17 @@ The aim of the project is to provide a robust text processing application that a
 Features
 
 •	Text Formatting: Apply predefined formatting rules to paragraphs, including heading styles, visibility, font styles (bold, italics), and more.
+
 •	File Loading and Processing: Load text files and represent them as a list of paragraphs, adhering to specific formatting rules.
+
 •	Statistical Reports: Generate reports providing statistics on the text, such as the total number of paragraphs, words, lines, and detailed statistics for each paragraph.
+
 •	Text Conversion: Convert text between PDF and Markdown formats, allowing for flexible content management across different mediums.
 
 Prerequisites
 
 •	Java Development Kit (JDK) for running Java applications.
+
 •	Any text editor or Integrated Development Environment (IDE) for editing the source code.
 
 Installation
@@ -37,4 +41,5 @@ Special thanks to Prof. P.Vasileiadis for guiding the development process.
 Cs team:
 
 •	Lavdaniti Kostantsa
+
 •	Tsapikouni Georgia
